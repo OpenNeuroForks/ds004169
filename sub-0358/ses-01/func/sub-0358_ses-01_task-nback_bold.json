@@ -9,7 +9,14 @@
   "EchoTime": 0.03,
   "FlipAngle": 90,
   "ImageComments": "Fake_MoCo_Reference_Volume_+_DiCo_Applied",
-  "ImageOrientationPatientDICOM": [1, 0, 0, 0, 0.94721, -0.320613],
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    0.94721,
+    -0.320613
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
@@ -17,7 +24,7 @@
     "ND",
     "DICO",
     "MOSAIC"
-],
+  ],
   "ImagingFrequency": 168.255,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "MRAcquisitionType": "2D",
@@ -45,10 +52,21 @@
   "SequenceVariant": "SK",
   "SeriesDescription": "Nback_dc_opt_DiCo",
   "SeriesNumber": 6,
-  "ShimSetting": [13, 1, 29, 2422, 205, -4574, 2759, 11],
+  "ShimSetting": [
+    13,
+    1,
+    29,
+    2422,
+    205,
+    -4574,
+    2759,
+    11
+  ],
   "SliceThickness": 3,
   "SoftwareVersions": "syngo_MR_2004A_4VA25A",
   "SpacingBetweenSlices": 3.6,
   "StationName": "WES4T",
   "TaskName": "nback",
-  "TxRefAmp": 178.489}
+  "TxRefAmp": 178.489,
+  "TotalReadoutTime": 1
+}

@@ -9,14 +9,21 @@
   "EchoTime": 0.03,
   "FlipAngle": 90,
   "ImageComments": "Fake_MoCo_Reference_Volume_+_DiCo_Applied",
-  "ImageOrientationPatientDICOM": [1, 0, 1.38778e-17, 0, 0.990268, -0.139173],
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    1.38778e-17,
+    0,
+    0.990268,
+    -0.139173
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
     "M",
     "ND",
     "MOSAIC"
-],
+  ],
   "ImagingFrequency": 168.255,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "MRAcquisitionType": "2D",
@@ -43,10 +50,21 @@
   "SequenceVariant": "SK",
   "SeriesDescription": "mz_bold_dc_REST_DiCo",
   "SeriesNumber": 9,
-  "ShimSetting": [24, 5, 26, 1976, 1017, -2853, 2348, -54],
+  "ShimSetting": [
+    24,
+    5,
+    26,
+    1976,
+    1017,
+    -2853,
+    2348,
+    -54
+  ],
   "SliceThickness": 3,
   "SoftwareVersions": "syngo_MR_2002B_4VA21A",
   "SpacingBetweenSlices": 3.6,
   "StationName": "wes4T",
   "TaskName": "rest",
-  "TxRefAmp": 192.356}
+  "TxRefAmp": 192.356,
+  "TotalReadoutTime": 1
+}

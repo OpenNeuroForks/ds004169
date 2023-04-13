@@ -9,7 +9,14 @@
   "EchoTime": 0.03,
   "FlipAngle": 90,
   "ImageComments": "Fake_MoCo_Reference_Volume_+_DiCo_Applied",
-  "ImageOrientationPatientDICOM": [1, 0, 0, 0, 0.966823, -0.255446],
+  "ImageOrientationPatientDICOM": [
+    1,
+    0,
+    0,
+    0,
+    0.966823,
+    -0.255446
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
@@ -17,7 +24,7 @@
     "ND",
     "DICO",
     "MOSAIC"
-],
+  ],
   "ImagingFrequency": 168.255,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "MRAcquisitionType": "2D",
@@ -50,4 +57,6 @@
   "SpacingBetweenSlices": 3.6,
   "StationName": "WES4T",
   "TaskName": "rest",
-  "TxRefAmp": 172.067}
+  "TxRefAmp": 172.067,
+  "TotalReadoutTime": 1
+}
